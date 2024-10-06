@@ -38,4 +38,3 @@ AI Research Agent is a Streamlit-based web application and Crewai framework that
 5. Wait for the research to complete. A loading animation will be displayed during this time.
 
 6. Once finished, the research report will be displayed on the page along with the time taken to generate it.
-# AI-Research-Agent
